@@ -11,11 +11,11 @@ pool:
 strategy:
   matrix:
     Python27:
-      python.version: '2.7'
+      python.version: '3.7'
     Python35:
-      python.version: '3.5'
+      python.version: '3.7'
     Python36:
-      python.version: '3.6'
+      python.version: '3.7'
     Python37:
       python.version: '3.7'
 
